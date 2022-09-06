@@ -39,6 +39,7 @@
 - SDET - software developer engineer in testing
 
 ## Chapter IV - Before the Interview
+- practice b
 
 ## Chapter V - Behavioral Questions
 
