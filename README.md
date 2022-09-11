@@ -39,8 +39,28 @@
 - SDET - software developer engineer in testing
 
 ## Chapter IV - Before the Interview
+- Focus on projects that display your skills
 
 ## Chapter V - Behavioral Questions
+- Interview Preparation Grid (Project Based)
+  - Challenges
+  - Mistakes/Failures
+  - Enjoyed
+  - Leadership
+  - Conflicts
+  - What You'd Do Differently
+- What are your weaknesses?
+- Your Questions:
+  - How does project planning happen on the team?
+- Be specific and light on details when explaining technical project details
+  - Allow an opening for the interviewer to dive further if desired
+- Situation, Action, Result = SAR
+- Tell Us About Yourself?
+  - Current Role
+  - College
+  - Current Role details
+  - Outside of Work
+  - Wrap Up
 
 ## Chapter VI - Big O Notation
 
